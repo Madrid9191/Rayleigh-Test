@@ -1,16 +1,3 @@
-## 📋 Descripción
-
-Paquete Python para análisis estadístico de datos circulares en biología, con enfoque en patrones temporales de actividad animal a partir de cámaras trampa y otros dispositivos de monitoreo.
-
-**Características principales:**
-- ✅ **Prueba de Rayleigh** para datos circulares (horas, direcciones, ciclos)
-- ✅ **Transformación automática** de datos temporales
-- ✅ **Visualización avanzada** circular y de rosa de los vientos
-- ✅ **Análisis para múltiples especies** o grupos
-- ✅ **Exportación de resultados** en múltiples formatos (Excel, PDF, PNG)
-- ✅ **Interfaz CLI y programática** para diferentes necesidades
-- ✅ **Validación de datos** robusta con manejo de errores
-
 # Fundamentos Teóricos de la Prueba de Rayleigh
 
 ## Introducción
@@ -54,6 +41,19 @@ Dirección de vuelo en aves migratorias...
 ## 3. Ritmos circadianos
 
 Actividad de insectos a lo largo del día...
+
+## 📋 Descripción
+
+Paquete Python para análisis estadístico de datos circulares en biología, con enfoque en patrones temporales de actividad animal a partir de cámaras trampa y otros dispositivos de monitoreo.
+
+**Características principales:**
+- ✅ **Prueba de Rayleigh** para datos circulares (horas, direcciones, ciclos)
+- ✅ **Transformación automática** de datos temporales
+- ✅ **Visualización avanzada** circular y de rosa de los vientos
+- ✅ **Análisis para múltiples especies** o grupos
+- ✅ **Exportación de resultados** en múltiples formatos (Excel, PDF, PNG)
+- ✅ **Interfaz CLI y programática** para diferentes necesidades
+- ✅ **Validación de datos** robusta con manejo de errores
 
 # Instrucciones 
 
