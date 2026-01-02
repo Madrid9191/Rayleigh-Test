@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Rayleigh Temporal Analysis
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Madrid Gonzalez
+    given-names: Manuel
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
